@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2002-06-30",
+        "event": "Sinh nhật ABC",
+        "alive": true
+    },
+    {
+        "date": "2002-06-30",
+        "event": "Ngày giỗ CCC",
+        "alive": false
+    },
+    {
+        "date": "2006-07-30",
+        "event": "Sinh nhật 111",
+        "alive": true
+    }
+]

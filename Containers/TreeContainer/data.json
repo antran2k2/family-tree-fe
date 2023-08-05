@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Root",
+        "gender": "MALE",
+        "dob": null,
+        "dod": null,
+        "alive": true,
+        "details": "something",
+        "parents": [],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    }
+]
